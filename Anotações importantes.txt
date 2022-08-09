@@ -1,0 +1,34 @@
+Anotações do curso SeleniumWebdrive/Junit/mão no codigo:
+
+   1° Apos ter ciado a classe e metodos na IDE com java, verificar se todas as bibliotecas foram importadas(@Beofore,@ After, @Test).
+
+   2° para estanciar os metodos da classe Wbdrive, é preciso verificar a versão do navegador que vai utilizar para automação!!
+   (Embora quando é feito a configuração do selenio no arquivo MAVEN em XML, já é feito toda a importação dos drives dos navegadores automatic)a 
+    
+
+               public class Automatz {
+
+    // atributos / caracteristicas
+
+  String url;     // endere site alvo
+  WebDriver driver;  //objeto selenium webdrive
+
+    //Métodos ou funções
+    @Before
+    public void iniciar(){
+      url = "https://github.com/Gismii";
+      
+
+
+    }
+    @After
+    public void finalizar(){
+
+
+    }
+    @Test
+    public void consultar(){
+
+    }
+
+}
