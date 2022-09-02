@@ -1,0 +1,14 @@
+#IDE
+
+#LINGUAGEM DE PROGRAMAÇÃO
+
+#GERENCIADOR DE PACOTES
+
+#versionemento
+
+#objeto de teste(html, elementos, atributos, indentificadores)
+
+# coneceitos e comandos
+
+#Classes
+
